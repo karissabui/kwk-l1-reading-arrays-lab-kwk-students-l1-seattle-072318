@@ -8,10 +8,6 @@
 
 
 
-expensive_items = [1.99, 5.79, 13.45, 12.99]
+cart_items = [1.99, 5.76,]
+  if x > 10 
 
-count = 0 
-expensive_items.each do |price|
-  puts "Item #{count}: #{price}"
-  count += 1
-end
