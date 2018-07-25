@@ -9,7 +9,6 @@
 
 
 cart_items = [1.99, 5.76, 13.45, 12.99]
-  
   if x > 10 do
     puts "cheap"
   end
