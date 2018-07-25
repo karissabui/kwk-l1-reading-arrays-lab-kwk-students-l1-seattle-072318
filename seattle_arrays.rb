@@ -10,4 +10,6 @@
 
 cart_items = [1.99, 5.76,]
   if x > 10 
+    puts "cheap"
+  end
 
