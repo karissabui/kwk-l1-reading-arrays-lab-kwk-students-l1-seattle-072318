@@ -1,5 +1,5 @@
-#array = ["puppies", "kittens"]
+array = ["puppies", "kittens"]
 
-#array.each do |pets|
+array.each do |pets|
   puts "#{pets}"
 end
